@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">MyMap</string>
+    <string name="hint_Latitude" id="mLatitudeText" translatable="false">Latitude</string>
+    <string name="hint_Longitude" translatable="false">Longitude</string>
+    <string name="hint_Time" translatable="false">Time</string>
+    <string name="button_Locate" translatable="false">locate</string>
+    <string name="button_MAP_FRAG" translatable="false">MAP FRAG</string>
+    <string name="button_MAP_VIEW" translatable="false">MAP VIEW</string>
+    <string name="button_My_Local" translatable="false">MY LOCAL</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="hint_Latitude" id="mLatitudeText">緯度</string>
+    <string name="hint_Longitude">經度</string>
+    <string name="hint_Time">時間</string>
+    <string name="button_Locate">地點</string>
+    <string name="button_MAP_FRAG">位置</string>
+    <string name="button_MAP_VIEW">地圖</string>
+    <string name="button_My_Local">我的地點</string>
+
+</resources>
